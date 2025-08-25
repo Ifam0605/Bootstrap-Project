@@ -18,24 +18,7 @@ It includes sections like navbar, carousel, about, services, portfolio, team, an
 - Bootstrap 5
 - Bootstrap Icons
 
-## 📂 Project Structure
-bootstrap-project/
-│── index.html
-│── asset/
-│ ├── style.css
-│ ├── home-1.jpg
-│ ├── home-2.jpg
-│ ├── home-3.jpg
-│ ├── about.jpg
-│ ├── project-1.jpg
-│ ├── project-2.jpg
-│ ├── project-3.jpg
-│ ├── team-1.jpg
-│ ├── team-2.jpg
-│ ├── team-3.jpg
-│ ├── team-4.jpg
-
-
 ## 📸 Project Preview
 
 ![Project Screenshot](bootsrp.png)
+![Project Screenshot](bootsrp2.png)
